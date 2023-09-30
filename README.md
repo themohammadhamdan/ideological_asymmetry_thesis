@@ -1,4 +1,4 @@
-# Ideological Asymmetry (Master thesis): The Subtle Relationship Between Political Ideology and Neural Activation
+# Ideological Asymmetry (Master thesis): Political ideology predicts individual variations in neural dynamics when watching non-political movies
 This repo includes all scripts and `.csv` files that I used to analyse the ID1000 dataset of the AOMIC databases for my thesis on ideological asymmtery. These Jupyter notebooks have detailed commentary on all stages my analysis from data wrangling to analysis and visualisation.
 
 The scripts are numbered in order of use, and are all located in the scripts folder.
